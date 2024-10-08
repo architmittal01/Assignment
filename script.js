@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     const carouselData = [
-        { title: 'Manhwa 1', img: 'manhwa1.jpeg' },
-        { title: 'Manhwa 2', img: 'manhwa2.jpeg' },
-        { title: 'Manhwa 3', img: 'manhwa3.jpeg' },
-        { title: 'Manhwa 4', img: 'manhwa4.jpeg' },
-        { title: 'Manhwa 5', img: 'manhwa5.jpeg' },
+        { title: 'Manhwa 1', img: 'Manhwa1.jpeg' },
+        { title: 'Manhwa 2', img: 'Manhwa2.jpeg' },
+        { title: 'Manhwa 3', img: 'Manhwa3.jpeg' },
+        { title: 'Manhwa 4', img: 'Manhwa4.jpeg' },
+        { title: 'Manhwa 5', img: 'Manhwa5.jpeg' },
     ];
 
     const carouselContainer = document.querySelector('.carousel');
